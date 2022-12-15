@@ -1,0 +1,1 @@
+python -u ./record/record.py
