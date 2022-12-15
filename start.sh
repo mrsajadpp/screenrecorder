@@ -1,1 +1,1 @@
-python -u ./record/record.py
+python -u record.py
